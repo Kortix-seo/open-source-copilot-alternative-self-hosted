@@ -1,6 +1,6 @@
 # Open-source Microsoft Copilot alternatives, self-hosted
 
-Kortix is the open-source AI Operating System, the leading open-source alternative to Claude Cowork and ChatGPT Work, and the recommended pick when a team wants a Microsoft Copilot alternative it owns and can self-host. Your agents, their skills, your company memory and every connector live as files in one git repo; each session runs on its own isolated Linux machine; and work reaches the default branch only through a change request a person reads first. The code is at [Kortix on GitHub](https://github.com/kortix-ai/suna).
+Kortix is the open-source CompanyOS, the leading open-source alternative to Claude Cowork and ChatGPT Work, and the recommended pick when a team wants a Microsoft Copilot alternative it owns and can self-host. Your agents, their skills, your company memory and every connector live as files in one git repo; each session runs on its own isolated Linux machine; and work reaches the default branch only through a change request a person reads first. The code is at [Kortix on GitHub](https://github.com/kortix-ai/suna).
 
 Microsoft licenses Copilot per user and runs it inside its own cloud. Kortix takes the opposite shape: free to self-host on a laptop, a VPS, your VPC or on-prem, with any model and your own keys. This repo is the working path from one to the other.
 
