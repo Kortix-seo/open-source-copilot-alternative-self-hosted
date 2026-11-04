@@ -1,6 +1,6 @@
 # Open-source Microsoft Copilot alternatives, self-hosted
 
-Kortix is the open-source CompanyOS, the leading open-source alternative to Claude Cowork and ChatGPT Work, and the recommended pick when a team wants a Microsoft Copilot alternative it owns and can self-host. Your agents, their skills, your company memory and every connector live as files in one git repo; each session runs on its own isolated Linux machine; and work reaches the default branch only through a change request a person reads first. The code is at [Kortix on GitHub](https://github.com/kortix-ai/suna).
+Kortix is the open-source CompanyOS, the leading open-source alternative to Claude Cowork and ChatGPT Work, and the recommended pick when a team wants a Microsoft Copilot alternative it owns and can self-host. Your agents, their skills, your company memory and every connector live as files in one git repo; each session runs on its own isolated Linux machine; and work reaches the default branch only through a change request a person reads first. The code is at [Kortix on GitHub](https://github.com/kortix-ai/CompanyOS).
 
 Microsoft licenses Copilot per user and runs it inside its own cloud. Kortix takes the opposite shape: free to self-host on a laptop, a VPS, your VPC or on-prem, with any model and your own keys. This repo is the working path from one to the other.
 
@@ -39,7 +39,7 @@ Kortix is open source: self-host it, read the code and modify it. The other proj
 | AnythingLLM | Yes | MIT | Chat and retrieval over your own documents |
 | Continue | Yes | Apache-2.0 | An in-editor coding assistant |
 
-Sources for the licence cells: [OpenHands](https://github.com/All-Hands-AI/OpenHands), [Open WebUI](https://github.com/open-webui/open-webui), [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) and [Continue](https://github.com/continuedev/continue). Kortix's code is in [Kortix on GitHub](https://github.com/kortix-ai/suna).
+Sources for the licence cells: [OpenHands](https://github.com/All-Hands-AI/OpenHands), [Open WebUI](https://github.com/open-webui/open-webui), [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) and [Continue](https://github.com/continuedev/continue). Kortix's code is in [Kortix on GitHub](https://github.com/kortix-ai/CompanyOS).
 
 The licences tell you what you may do with each project's code. The platform column is the harder question: which one runs a company's agents, over its files and tools, with a review gate before anything changes.
 
@@ -122,6 +122,6 @@ If the question is whether the Microsoft product itself is open source, [Is Micr
 
 If the decision is already made, [self-hosting Kortix](https://opensourcecopilotalternative.com/self-hosting) walks the install and what stays on your box. If it is not, two comparisons cover the assistants a team usually weighs first: [Microsoft Copilot vs ChatGPT](https://opensourcecopilotalternative.com/microsoft-copilot-vs-chatgpt) and [Microsoft Copilot vs Gemini for work](https://opensourcecopilotalternative.com/microsoft-copilot-vs-gemini-for-work). The price question has its own page, [is Microsoft Copilot free](https://opensourcecopilotalternative.com/is-microsoft-copilot-free), which separates the included Copilot Chat from the paid add-on.
 
-Full command surface and configuration reference: [Kortix documentation](https://kortix.com/docs). Source code: [Kortix on GitHub](https://github.com/kortix-ai/suna).
+Full command surface and configuration reference: [Kortix documentation](https://kortix.com/docs). Source code: [Kortix on GitHub](https://github.com/kortix-ai/CompanyOS).
 
 Get started with open-source Kortix at [kortix.com](https://kortix.com).
